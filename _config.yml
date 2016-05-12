@@ -1,6 +1,6 @@
 name: futureaudiobrand.com
 favicon: null
-layout_spectrum: 0.6846940340474248
+layout_spectrum: 0.27749
 typography_spectrum: 0.17168892663903534
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#ffffff'
+    - '#0068ff'
+    - '#0ec3ff'
+    - '#a9a9a9'
   brandStrength: 0.5181190588045865
   lightness: 0.6098798194434494
   saturation: 0.25262444536201656
